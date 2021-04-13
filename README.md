@@ -12,6 +12,6 @@ Currently working as Android Developer at [Bitbyte Corp.](https://plkey.app) in 
 -   LinkedIn: [linkedin.com/in/hyeongon-kim](https://www.linkedin.com/in/hyeongon-kim-5844b61a6/)
 
 ### Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongonkim&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisais9&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongonkim&layout=compact&count_private=true)
