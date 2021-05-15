@@ -1,6 +1,6 @@
 ### Hyeongon 'Simon' Kim / @hyeongon.simon
 
-Currently working as Android Developer at [Bitbyte Corp.](https://plkey.app) in South Korea.
+Currently working as Android Developer at [Bitbyte Corp.](https://plkey.app) in South Korea. (2020. 07 ~ Current)
 
 ### 🚀  Things I do
 
