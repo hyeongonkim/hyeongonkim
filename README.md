@@ -10,6 +10,7 @@ Currently working as Android Developer at [Bitbyte Corp.](https://plkey.app) in 
 
 -   Mail: [hyeongon.simon@gmail.com](mailto:hyeongon.simon@gmail.com)
 -   LinkedIn: [linkedin.com/in/hyeongon-kim](https://www.linkedin.com/in/hyeongon-kim-5844b61a6/)
+-   Blog: [hyeongonkim.github.io](https://hyeongonkim.github.io)
 
 ### Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongonkim&show_icons=true&count_private=true)
